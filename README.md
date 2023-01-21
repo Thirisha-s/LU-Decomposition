@@ -9,6 +9,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 1. TO FIND L AND U MATRICES WITH LU DECOMPOSTION
+ 
 step 1:
 Get the matrix from user
 
@@ -21,7 +22,9 @@ print the result matrices (l and u matrices)
 step 4:
 End the program
 
+
 2. TO FIND X MATRIX WITH LU DECOMPOSITION
+
 step 1:
 Get the matrix from user
 
