@@ -40,8 +40,7 @@ End the program
 
 ## Program:
 (i) To find the L and U matrix
-```
-/*
+```python
 Program to find the L and U matrix.
 Developed by: s.thirisha
 RegisterNumber: 22001920
@@ -52,11 +51,9 @@ A=np.array(arr)
 P,L,U=lu(A)
 print(L)
 print(U)
-*/
 ```
 (ii) To find the LU Decomposition of a matrix
-```
-/*
+```python
 Program to find the LU Decomposition of a matrix.
 Developed by:s.thirisha 
 RegisterNumber: 22001920
@@ -68,8 +65,6 @@ B=eval(input())
 result=lu_factor(A)
 solution=lu_solve(result,B)
 print(solution)
-
-*/
 ```
 
 ## Output:
